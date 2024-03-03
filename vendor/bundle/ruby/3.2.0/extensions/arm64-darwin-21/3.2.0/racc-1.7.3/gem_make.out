@@ -1,0 +1,18 @@
+current directory: /Users/aoi/code/apiquest/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/aoi/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/aoi/code/apiquest/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240225-89709-1fxcay sitelibdir\=./.gem.20240225-89709-1fxcay clean
+
+current directory: /Users/aoi/code/apiquest/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240225-89709-1fxcay sitelibdir\=./.gem.20240225-89709-1fxcay
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/aoi/code/apiquest/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240225-89709-1fxcay sitelibdir\=./.gem.20240225-89709-1fxcay install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240225-89709-1fxcay/racc
+
+current directory: /Users/aoi/code/apiquest/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240225-89709-1fxcay sitelibdir\=./.gem.20240225-89709-1fxcay clean
