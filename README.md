@@ -1,24 +1,14 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ブログプラットフォームを作る RealWorld という OSS のプロジェクトがあります。RealWorld は実世界と同じ機能を持つプラットフォームを作ることで、学習したいフレームワークの技術を習得することを目的としてたプロジェクトです。
 
-Things you may want to cover:
+ここでは、RealWorld の バックエンドの API の仕様を満たす Rails API を作成します。
 
-* Ruby version
+RealWorld の API のうち、次のエンドポイントを実装します。
 
-* System dependencies
+-  Create Article
+-  Get Article
+-  Update Article
+-  Delete Article
 
-* Configuration
+なお、Article に関わる要素のうち、認証機能及び著者、お気に入り(favorite) は実装しなくてよいものとします。
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
